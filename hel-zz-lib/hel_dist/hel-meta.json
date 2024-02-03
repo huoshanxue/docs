@@ -3,14 +3,14 @@
     "name": "hel-zz-lib",
     "app_group_name": "hel-zz-lib",
     "git_repo_url": "",
-    "online_version": "1.6.5",
-    "build_version": "1.6.5"
+    "online_version": "1.8.1",
+    "build_version": "1.8.1"
   },
   "version": {
     "plugin_ver": "4.3.20",
     "extract_mode": "build",
     "sub_app_name": "hel-zz-lib",
-    "sub_app_version": "1.6.5",
+    "sub_app_version": "1.8.1",
     "src_map": {
       "webDirPath": "https://huoshanxue.github.io/hel-zz-lib/hel_dist",
       "htmlIndexSrc": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/index.html",
@@ -21,8 +21,8 @@
         "https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/app~e2e93592.676061cd.css"
       ],
       "chunkJsSrcList": [
-        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js",
-        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.48dec621.js"
+        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js",
+        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.95f5ac64.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -50,7 +50,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.48dec621.js",
+            "href": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.95f5ac64.js",
             "rel": "prefetch"
           }
         },
@@ -67,7 +67,7 @@
           "tag": "link",
           "append": true,
           "attrs": {
-            "href": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js",
+            "href": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js",
             "rel": "preload",
             "as": "script"
           }
@@ -86,7 +86,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js"
+            "src": "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js"
           }
         }
       ],
@@ -97,10 +97,10 @@
         "https://huoshanxue.github.io/hel-zz-lib/hel_dist/fonts/iconfont.e523eb3b.ttf",
         "https://huoshanxue.github.io/hel-zz-lib/hel_dist/img/logo.82b9c7a5.png",
         "https://huoshanxue.github.io/hel-zz-lib/hel_dist/index.html",
-        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js.map",
-        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.48dec621.js.map"
+        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js.map",
+        "https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.95f5ac64.js.map"
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/chunk-1587e475.20511621.css\" rel=\"prefetch\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.48dec621.js\" rel=\"prefetch\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/app~e2e93592.676061cd.css\" rel=\"preload\" as=\"style\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js\" rel=\"preload\" as=\"script\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/app~e2e93592.676061cd.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but hel-zz-lib doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.7da934c5.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/chunk-1587e475.20511621.css\" rel=\"prefetch\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/chunk-1587e475.95f5ac64.js\" rel=\"prefetch\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/app~e2e93592.676061cd.css\" rel=\"preload\" as=\"style\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js\" rel=\"preload\" as=\"script\"><link href=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/css/app~e2e93592.676061cd.css\" rel=\"stylesheet\"></head><body><noscript><strong>We're sorry but hel-zz-lib doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://huoshanxue.github.io/hel-zz-lib/hel_dist/js/app~e2e93592.8787fe37.js\"></script></body></html>"
   }
 }
